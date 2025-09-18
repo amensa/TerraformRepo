@@ -1,2 +1,0 @@
-# TerraformRepo
-Readme file
